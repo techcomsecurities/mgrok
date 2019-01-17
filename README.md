@@ -7,7 +7,7 @@ $ go get github.com/techcomsecurities/mgrok
 ```
 
 ## Example
-```
+```go
 package main
 
 import (
